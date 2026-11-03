@@ -1,0 +1,55 @@
+[
+  {
+    "album": "明志",
+    "year": 2007,
+    "type": "main",
+    "number": 9,
+    "title": "One Night Stand (minus one)",
+    "duration_seconds": null,
+    "video_id": null,
+    "url": null,
+    "video_title": null,
+    "status": "missing_source",
+    "reason": "唱片目录有此伴奏曲，完整官方频道目录中未找到对应版本；未以有人声版本替代。"
+  },
+  {
+    "album": "明志",
+    "year": 2007,
+    "type": "main",
+    "number": 10,
+    "title": "可憐的小弟 (minus one)",
+    "duration_seconds": null,
+    "video_id": null,
+    "url": null,
+    "video_title": null,
+    "status": "missing_source",
+    "reason": "唱片目录有此伴奏曲，完整官方频道目录中未找到对应版本；未以有人声版本替代。"
+  },
+  {
+    "album": "鬼才做音樂",
+    "year": 2021,
+    "type": "extra",
+    "number": 2,
+    "title": "[无标题／不可用条目]",
+    "video_id": "wBdJKxnYZQE",
+    "url": "https://www.youtube.com/watch?v=wBdJKxnYZQE",
+    "duration_seconds": null,
+    "video_title": null,
+    "kind": "alternate_version",
+    "status": "restricted_private",
+    "reason": "原列表条目已设为私密，无法核定标题；已补齐的标准曲目不受此条目影响。"
+  },
+  {
+    "album": "高清無碼",
+    "year": 2022,
+    "type": "main",
+    "number": 13,
+    "title": "別人的老婆 (不插電版)",
+    "duration_seconds": 270.333,
+    "video_id": "KafYwSQ_emE",
+    "url": "https://www.youtube.com/watch?v=KafYwSQ_emE",
+    "video_title": "Namewee 黃明志 Ft. Aoi Sola 蒼井空【Someone Else's Wife 別人的老婆】*Unplugged Version* (Official Music Video)",
+    "status": "restricted_membership",
+    "reason": "频道会员限定：Midnight Tokok 或更高等级；当前登录会话无观看权限。"
+  }
+]

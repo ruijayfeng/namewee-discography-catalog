@@ -1,0 +1,24 @@
+黃明志 — 亞洲通話 (2019)
+主目录：成功 11 / 11；附加版本：成功 0。
+官方 YouTube MV／歌词视频音轨，保留完整内容，可能包含剧情或片尾；并非无损唱片母带。
+曲序依据：所列唱片目录的正式曲序；官方 MV 音轨可能与唱片版本不同
+曲目目录：https://musicbrainz.org/release/d228d0e7-5e07-4e5a-90af-9a8dd706d651
+频道专辑列表：https://www.youtube.com/playlist?list=PLp8YAQVH95dz6XZTX8G7IhrJ6NKPYxRCN
+音质：yt-dlp bestaudio 自动选择最高可用源流，保留原始 Opus 或 AAC；标签和封面处理不重编码音频。
+每个成功文件均核对标签、嵌入封面、音频流哈希，并完整解码。
+Opus 使用标准 Vorbis Comment 标签和 METADATA_BLOCK_PICTURE 封面。
+附加版本放在独立子目录，并使用带「附加版本」的专辑标签。
+Cookie 未保存进交付目录。
+
+主目录曲序：
+01. 鬼島 (Ghost Island) — 已下载并验证
+02. 流浪狗 (The Stray) — 已下载并验证
+03. 舊傷口 (My Old Wound) — 已下载并验证
+04. 我們的十年 (10‐Year Challenge) — 已下载并验证
+05. 哥抽菸 (Ain’t a Cigarette) — 已下载并验证
+06. 出去走走 (Getaway) — 已下载并验证
+07. 愛妳也愛她 (Polyamory) — 已下载并验证
+08. Piggy Piggy — 已下载并验证
+09. 醉蝶 (Drunken Butterfly) — 已下载并验证
+10. Jiojiome — 已下载并验证
+11. 亞麻比 (Yamabi) — 已下载并验证

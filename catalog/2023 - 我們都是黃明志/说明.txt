@@ -1,0 +1,26 @@
+黃明志 — 我們都是黃明志 (2023)
+主目录：成功 9 / 9；附加版本：成功 2。
+官方 YouTube MV／歌词视频音轨，保留完整内容，可能包含剧情或片尾；并非无损唱片母带。
+曲序依据：所列唱片目录的正式曲序；官方 MV 音轨可能与唱片版本不同
+曲目目录：https://musicbrainz.org/release/c7f148d4-e3b5-490b-ba8c-c6ec7a26687a
+频道专辑列表：https://www.youtube.com/playlist?list=PLp8YAQVH95dyxVkqpN6oeA6H35VfG5k2o
+音质：yt-dlp bestaudio 自动选择最高可用源流，保留原始 Opus 或 AAC；标签和封面处理不重编码音频。
+每个成功文件均核对标签、嵌入封面、音频流哈希，并完整解码。
+Opus 使用标准 Vorbis Comment 标签和 METADATA_BLOCK_PICTURE 封面。
+附加版本放在独立子目录，并使用带「附加版本」的专辑标签。
+Cookie 未保存进交付目录。
+目录中的「寫一首個給你聽」按官方 MV 标题更正为「寫一首歌給你聽」。
+
+主目录曲序：
+01. 千千萬萬個我 — 已下载并验证
+02. 十個男人 — 已下载并验证
+03. 慢慢做起來 — 已下载并验证
+04. 夜霧 — 已下载并验证
+05. 寫一首歌給你聽 — 已下载并验证
+06. BUKIT MAK — 已下载并验证
+07. DANNOK — 已下载并验证
+08. 當我離開以後 — 已下载并验证
+09. 大飛機 — 已下载并验证
+
+未编入音乐库的宣传视频：
+黃明志成立非法組織還有邀請函？開箱【Weenomenon 我們都是黃明志】黃明志第11張全新創作專輯 | https://www.youtube.com/watch?v=nFsFrK6TdwY

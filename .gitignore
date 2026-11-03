@@ -1,0 +1,30 @@
+# 音频、视频、封面与归档不进入公开仓库
+*.opus
+*.m4a
+*.mp3
+*.flac
+*.wav
+*.aac
+*.ogg
+*.webm
+*.mp4
+*.mkv
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.zip
+*.7z
+*.tar
+*.gz
+
+# 本地环境与认证数据
+.env
+.env.*
+*cookies*
+*.log
+__pycache__/
+.venv/
+work/
+outputs/
+.DS_Store

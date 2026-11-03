@@ -1,0 +1,23 @@
+黃明志 — 亞洲通殺 (2015)
+主目录：成功 10 / 10；附加版本：成功 0。
+官方 YouTube MV／歌词视频音轨，保留完整内容，可能包含剧情或片尾；并非无损唱片母带。
+曲序依据：所列唱片目录的正式曲序；官方 MV 音轨可能与唱片版本不同
+曲目目录：https://music.apple.com/tw/album/%E4%BA%9E%E6%B4%B2%E9%80%9A%E6%AE%BA/1811465846?uo=4
+频道专辑列表：https://www.youtube.com/playlist?list=PLp8YAQVH95dx1yY6y7peusyonZOvsycsM
+音质：yt-dlp bestaudio 自动选择最高可用源流，保留原始 Opus 或 AAC；标签和封面处理不重编码音频。
+每个成功文件均核对标签、嵌入封面、音频流哈希，并完整解码。
+Opus 使用标准 Vorbis Comment 标签和 METADATA_BLOCK_PICTURE 封面。
+附加版本放在独立子目录，并使用带「附加版本」的专辑标签。
+Cookie 未保存进交付目录。
+
+主目录曲序：
+01. Banglasia — 已下载并验证
+02. 全民偶像 — 已下载并验证
+03. 飆高音 — 已下载并验证
+04. 台北之旅 — 已下载并验证
+05. AV女郎 — 已下载并验证
+06. 我來了Uncle Lim (feat. Yasin Sulaiman) — 已下载并验证
+07. 泰傷情哥 — 已下载并验证
+08. 安娣 (feat. MC 阿芳) — 已下载并验证
+09. 學廣東話 — 已下载并验证
+10. 心愛的人 — 已下载并验证

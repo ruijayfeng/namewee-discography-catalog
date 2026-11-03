@@ -1,0 +1,24 @@
+黃明志 — 亞洲通吃 (2017)
+主目录：成功 11 / 11；附加版本：成功 3。
+官方 YouTube MV／歌词视频音轨，保留完整内容，可能包含剧情或片尾；并非无损唱片母带。
+曲序依据：所列唱片目录的正式曲序；官方 MV 音轨可能与唱片版本不同
+曲目目录：https://music.apple.com/tw/album/%E4%BA%9E%E6%B4%B2%E9%80%9A%E5%90%83/1446263878?uo=4
+频道专辑列表：https://www.youtube.com/playlist?list=PLp8YAQVH95dzTgNceQajZN2sQ5gVMn-EX
+音质：yt-dlp bestaudio 自动选择最高可用源流，保留原始 Opus 或 AAC；标签和封面处理不重编码音频。
+每个成功文件均核对标签、嵌入封面、音频流哈希，并完整解码。
+Opus 使用标准 Vorbis Comment 标签和 METADATA_BLOCK_PICTURE 封面。
+附加版本放在独立子目录，并使用带「附加版本」的专辑标签。
+Cookie 未保存进交付目录。
+
+主目录曲序：
+01. 泰國恰恰 (feat. Bie The Ska) — 已下载并验证
+02. Makudonarudo (feat. 二宮芽生) — 已下载并验证
+03. 擊敗人 — 已下载并验证
+04. 胡志明的雨 (feat. 胡光孝) [合唱版] — 已下载并验证
+05. 胡志明的雨 — 已下载并验证
+06. 一起飆高音 (feat. 李佳薇) — 已下载并验证
+07. Ali AhKao Dan Muthu (feat. Dato'David Arumugam & Aniq) — 已下载并验证
+08. 爸爸的夢 (feat. 黃安熙) — 已下载并验证
+09. 搞笑快行動 (feat. 梁智強) — 已下载并验证
+10. 唯一的唯一的唯一 — 已下载并验证
+11. 啪啪啪 — 已下载并验证

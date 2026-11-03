@@ -1,0 +1,23 @@
+黃明志 — 明志 (2007)
+主目录：成功 8 / 10；附加版本：成功 0。
+官方 YouTube MV／歌词视频音轨，保留完整内容，可能包含剧情或片尾；并非无损唱片母带。
+曲序依据：所列唱片目录的正式曲序；官方 MV 音轨可能与唱片版本不同
+曲目目录：https://musicbrainz.org/release/17083139-57d8-4c3e-a80b-7567f568d10d
+频道专辑列表：https://www.youtube.com/playlist?list=PLp8YAQVH95dyybRco4Zg8fDNeTilypERY
+音质：yt-dlp bestaudio 自动选择最高可用源流，保留原始 Opus 或 AAC；标签和封面处理不重编码音频。
+每个成功文件均核对标签、嵌入封面、音频流哈希，并完整解码。
+Opus 使用标准 Vorbis Comment 标签和 METADATA_BLOCK_PICTURE 封面。
+附加版本放在独立子目录，并使用带「附加版本」的专辑标签。
+Cookie 未保存进交付目录。
+
+主目录曲序：
+01. 媽媽說 — 已下载并验证
+02. One Night Stand — 已下载并验证
+03. 可憐的小弟 — 已下载并验证
+04. 盜版之王 — 已下载并验证
+05. 麻坡的華語 — 已下载并验证
+06. 可愛的女孩（demo版） — 已下载并验证
+07. 可憐的小弟（live版） — 已下载并验证
+08. 麻坡的華語（live版·忘詞版） — 已下载并验证
+09. One Night Stand (minus one) — 目录缺曲
+10. 可憐的小弟 (minus one) — 目录缺曲

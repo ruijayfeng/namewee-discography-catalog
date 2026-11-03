@@ -1,0 +1,215 @@
+{
+  "final": true,
+  "albums": [
+    {
+      "year": 2007,
+      "album": "明志",
+      "catalog_tracks": 10,
+      "main_downloaded": 8,
+      "main_missing_or_failed": 2,
+      "extra_downloaded": 0,
+      "excluded_non_music": 0,
+      "catalog_completeness": "按所列唱片目录核对",
+      "folder": "2007 - 明志"
+    },
+    {
+      "year": 2010,
+      "album": "好好嘢",
+      "catalog_tracks": 13,
+      "main_downloaded": 13,
+      "main_missing_or_failed": 0,
+      "extra_downloaded": 0,
+      "excluded_non_music": 0,
+      "catalog_completeness": "按所列唱片目录核对",
+      "folder": "2010 - 好好嘢"
+    },
+    {
+      "year": 2013,
+      "album": "亞洲通緝",
+      "catalog_tracks": 13,
+      "main_downloaded": 13,
+      "main_missing_or_failed": 0,
+      "extra_downloaded": 0,
+      "excluded_non_music": 0,
+      "catalog_completeness": "按所列唱片目录核对",
+      "folder": "2013 - 亞洲通緝"
+    },
+    {
+      "year": 2015,
+      "album": "亞洲通殺",
+      "catalog_tracks": 10,
+      "main_downloaded": 10,
+      "main_missing_or_failed": 0,
+      "extra_downloaded": 0,
+      "excluded_non_music": 0,
+      "catalog_completeness": "按所列唱片目录核对",
+      "folder": "2015 - 亞洲通殺"
+    },
+    {
+      "year": 2016,
+      "album": "亞洲通車",
+      "catalog_tracks": 10,
+      "main_downloaded": 10,
+      "main_missing_or_failed": 0,
+      "extra_downloaded": 2,
+      "excluded_non_music": 0,
+      "catalog_completeness": "按所列唱片目录核对",
+      "folder": "2016 - 亞洲通車"
+    },
+    {
+      "year": 2017,
+      "album": "亞洲通吃",
+      "catalog_tracks": 11,
+      "main_downloaded": 11,
+      "main_missing_or_failed": 0,
+      "extra_downloaded": 3,
+      "excluded_non_music": 0,
+      "catalog_completeness": "按所列唱片目录核对",
+      "folder": "2017 - 亞洲通吃"
+    },
+    {
+      "year": 2018,
+      "album": "亞洲通牒",
+      "catalog_tracks": 14,
+      "main_downloaded": 14,
+      "main_missing_or_failed": 0,
+      "extra_downloaded": 1,
+      "excluded_non_music": 0,
+      "catalog_completeness": "按所列唱片目录核对",
+      "folder": "2018 - 亞洲通牒"
+    },
+    {
+      "year": 2019,
+      "album": "亞洲通話",
+      "catalog_tracks": 11,
+      "main_downloaded": 11,
+      "main_missing_or_failed": 0,
+      "extra_downloaded": 0,
+      "excluded_non_music": 0,
+      "catalog_completeness": "按所列唱片目录核对",
+      "folder": "2019 - 亞洲通話"
+    },
+    {
+      "year": 2020,
+      "album": "亞洲通才",
+      "catalog_tracks": 12,
+      "main_downloaded": 12,
+      "main_missing_or_failed": 0,
+      "extra_downloaded": 1,
+      "excluded_non_music": 1,
+      "catalog_completeness": "按所列唱片目录核对",
+      "folder": "2020 - 亞洲通才"
+    },
+    {
+      "year": 2021,
+      "album": "鬼才做音樂",
+      "catalog_tracks": 14,
+      "main_downloaded": 14,
+      "main_missing_or_failed": 0,
+      "extra_downloaded": 1,
+      "excluded_non_music": 1,
+      "catalog_completeness": "按所列唱片目录核对",
+      "folder": "2021 - 鬼才做音樂"
+    },
+    {
+      "year": 2022,
+      "album": "高清無碼",
+      "catalog_tracks": 14,
+      "main_downloaded": 13,
+      "main_missing_or_failed": 1,
+      "extra_downloaded": 2,
+      "excluded_non_music": 1,
+      "catalog_completeness": "按所列唱片目录核对",
+      "folder": "2022 - 高清無碼"
+    },
+    {
+      "year": 2023,
+      "album": "我們都是黃明志",
+      "catalog_tracks": 9,
+      "main_downloaded": 9,
+      "main_missing_or_failed": 0,
+      "extra_downloaded": 2,
+      "excluded_non_music": 1,
+      "catalog_completeness": "按所列唱片目录核对",
+      "folder": "2023 - 我們都是黃明志"
+    },
+    {
+      "year": 2024,
+      "album": "小明與小志",
+      "catalog_tracks": 11,
+      "main_downloaded": 11,
+      "main_missing_or_failed": 0,
+      "extra_downloaded": 0,
+      "excluded_non_music": 0,
+      "catalog_completeness": "按所列唱片目录核对",
+      "folder": "2024 - 小明與小志"
+    },
+    {
+      "year": 2026,
+      "album": "十三號宇宙",
+      "catalog_tracks": 5,
+      "main_downloaded": 5,
+      "main_missing_or_failed": 0,
+      "extra_downloaded": 0,
+      "excluded_non_music": 0,
+      "catalog_completeness": "未核定完整唱片目录",
+      "folder": "2026 - 十三號宇宙"
+    }
+  ],
+  "verified_audio_files": 166,
+  "issues": [
+    {
+      "album": "明志",
+      "year": 2007,
+      "type": "main",
+      "number": 9,
+      "title": "One Night Stand (minus one)",
+      "duration_seconds": null,
+      "video_id": null,
+      "url": null,
+      "video_title": null,
+      "status": "missing_source",
+      "reason": "唱片目录有此伴奏曲，完整官方频道目录中未找到对应版本；未以有人声版本替代。"
+    },
+    {
+      "album": "明志",
+      "year": 2007,
+      "type": "main",
+      "number": 10,
+      "title": "可憐的小弟 (minus one)",
+      "duration_seconds": null,
+      "video_id": null,
+      "url": null,
+      "video_title": null,
+      "status": "missing_source",
+      "reason": "唱片目录有此伴奏曲，完整官方频道目录中未找到对应版本；未以有人声版本替代。"
+    },
+    {
+      "album": "鬼才做音樂",
+      "year": 2021,
+      "type": "extra",
+      "number": 2,
+      "title": "[无标题／不可用条目]",
+      "video_id": "wBdJKxnYZQE",
+      "url": "https://www.youtube.com/watch?v=wBdJKxnYZQE",
+      "duration_seconds": null,
+      "video_title": null,
+      "kind": "alternate_version",
+      "status": "restricted_private",
+      "reason": "原列表条目已设为私密，无法核定标题；已补齐的标准曲目不受此条目影响。"
+    },
+    {
+      "album": "高清無碼",
+      "year": 2022,
+      "type": "main",
+      "number": 13,
+      "title": "別人的老婆 (不插電版)",
+      "duration_seconds": 270.333,
+      "video_id": "KafYwSQ_emE",
+      "url": "https://www.youtube.com/watch?v=KafYwSQ_emE",
+      "video_title": "Namewee 黃明志 Ft. Aoi Sola 蒼井空【Someone Else's Wife 別人的老婆】*Unplugged Version* (Official Music Video)",
+      "status": "restricted_membership",
+      "reason": "频道会员限定：Midnight Tokok 或更高等级；当前登录会话无观看权限。"
+    }
+  ]
+}

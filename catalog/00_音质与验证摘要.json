@@ -1,0 +1,16 @@
+{
+  "selection": "yt-dlp bestaudio",
+  "audio_reencoded": false,
+  "verified_files": 166,
+  "unique_source_videos": 161,
+  "formats": {
+    "140": 1,
+    "251": 165
+  },
+  "codecs": {
+    "aac": 1,
+    "opus": 165
+  },
+  "source_bitrate_kbps_min": 113.546,
+  "source_bitrate_kbps_max": 142.782
+}

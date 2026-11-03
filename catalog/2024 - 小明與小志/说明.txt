@@ -1,0 +1,24 @@
+黃明志 — 小明與小志 (2024)
+主目录：成功 11 / 11；附加版本：成功 0。
+官方 YouTube MV／歌词视频音轨，保留完整内容，可能包含剧情或片尾；并非无损唱片母带。
+曲序依据：所列唱片目录的正式曲序；官方 MV 音轨可能与唱片版本不同
+曲目目录：https://music.apple.com/tw/album/%E5%B0%8F%E6%98%8E%E8%88%87%E5%B0%8F%E5%BF%97/6804940022?uo=4
+频道专辑列表：https://www.youtube.com/playlist?list=PLp8YAQVH95dzevGbO8YWDOdwyUOeL0aSV
+音质：yt-dlp bestaudio 自动选择最高可用源流，保留原始 Opus 或 AAC；标签和封面处理不重编码音频。
+每个成功文件均核对标签、嵌入封面、音频流哈希，并完整解码。
+Opus 使用标准 Vorbis Comment 标签和 METADATA_BLOCK_PICTURE 封面。
+附加版本放在独立子目录，并使用带「附加版本」的专辑标签。
+Cookie 未保存进交付目录。
+
+主目录曲序：
+01. 兩個好朋友 (feat. SJK(C) Serdang Baru 1 Choir) — 已下载并验证
+02. 捏捏捏捏噗噗 (feat. SJK(C) Serdang Baru 1 Choir) — 已下载并验证
+03. Super Hero (feat. 林德荣) — 已下载并验证
+04. Datobeli Star Petpet — 已下载并验证
+05. 龙的传人 (feat. Winnie-The-Poo) — 已下载并验证
+06. 員工旅遊 (feat. The Geebai Team) — 已下载并验证
+07. 悔過書 (feat. 林夕) — 已下载并验证
+08. 揸FIT (feat. 黃秋生) — 已下载并验证
+09. 飲勝 (feat. 滅火器) — 已下载并验证
+10. 兩個好朋友 (feat. SJK(C) Serdang Baru 1 Choir) [DJ沈念Remix版] — 已下载并验证
+11. 揸FIT (feat. 黃秋生) [華語版] — 已下载并验证
